@@ -1,0 +1,6 @@
+metric=response_time value=150 timestamp=2024-03-21T10:00:00
+level=INFO message="Application started" timestamp=2024-03-21T10:00:00
+request_url=/api/users response_status=200 response_time_ms=50
+metric=cpu_usage value=75.5 timestamp=2024-03-21T10:00:01
+level=ERROR message="Connection failed" timestamp=2024-03-21T10:00:02
+request_url=/api/orders response_status=500 response_time_ms=250

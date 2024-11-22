@@ -1,0 +1,14 @@
+{
+  "response_time" : {
+    "average" : 150.0,
+    "median" : 150.0,
+    "maximum" : 150.0,
+    "minimum" : 150.0
+  },
+  "cpu_usage" : {
+    "average" : 75.5,
+    "median" : 75.5,
+    "maximum" : 75.5,
+    "minimum" : 75.5
+  }
+}
